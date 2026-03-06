@@ -7,8 +7,8 @@ Cliquez sur le bouton **Fork** en haut à droite de cette page.
 ## 2. Cloner votre fork
 
 ```bash
-git clone https://github.com/VOTRE-USERNAME/docker-tp-images.git
-cd docker-tp-images
+git clone https://github.com/VOTRE-USERNAME/docker-tp-volumes.git
+cd docker-tp-volumes
 ```
 
 ## 3. Créer une branche avec votre nom
